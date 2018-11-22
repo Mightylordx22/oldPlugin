@@ -1,0 +1,14 @@
+name: BanGui
+version: 4.5
+author: mightylordx
+main: me.mightylordx.adminitems.Main
+description: Punish a player.
+depends: [ProtocolLib]
+
+commands:
+  tempban:
+    usage: /<command>
+    description: Tempban a player.
+  ban:
+    usage: /<command>
+    description: Ban a player.
